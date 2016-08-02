@@ -1,7 +1,11 @@
-# Installation
+# Instructions
+
+## Installation
 
 `npm install`
 
-# Run
+## Run
 
 `npm start`
+
+The demo will be available on `localhost:3000`.
